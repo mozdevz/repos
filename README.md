@@ -1,2 +1,2 @@
 # repos
-[Moved] List of Open Source projects maintained by Mozambican Developers
+This repository has been moved to [github.com/mozdevz/opensource](https://github.com/mozdevz/opensource).
